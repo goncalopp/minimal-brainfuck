@@ -1,0 +1,4 @@
+This code (while usable) is quite poorly implemented 
+(fixed memory size instead of malloc, etc)
+There are several quick improvements that can be made; if you implement any,
+please let me know, I'll happilly pull changes
